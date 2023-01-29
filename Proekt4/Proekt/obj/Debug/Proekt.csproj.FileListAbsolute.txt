@@ -1,0 +1,8 @@
+D:\c#\Proekt\Proekt\bin\Debug\Proekt.exe.config
+D:\c#\Proekt\Proekt\bin\Debug\Proekt.exe
+D:\c#\Proekt\Proekt\bin\Debug\Proekt.pdb
+D:\c#\Proekt\Proekt\obj\Debug\Proekt.csproj.AssemblyReference.cache
+D:\c#\Proekt\Proekt\obj\Debug\Proekt.csproj.SuggestedBindingRedirects.cache
+D:\c#\Proekt\Proekt\obj\Debug\Proekt.csproj.CoreCompileInputs.cache
+D:\c#\Proekt\Proekt\obj\Debug\Proekt.exe
+D:\c#\Proekt\Proekt\obj\Debug\Proekt.pdb
